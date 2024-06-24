@@ -9,5 +9,9 @@ The dataset used from this analyses was combined from two data sets from the Sen
 The goal of this analsyses to be able to identify features that contribute to the growth of wages for individuals and families. A regression analyses will be run to see how predictable that income Per Capita is. What will also be run are classification models in an attempt to identifty counties that have much in common with the goal of finding out if there are grouping of counties that can be put together and studies further. To that end the two classification models that will be used are K-Means Classification and DBSCAN.
 
 ## 3. Data Cleaning
+There was no missing data in the data sets. I filtered the data in the education data set down to the male and female gradation rates for both high school and college. I also included the overal high school and college graduates. To merge the the data sets I needed to isolate the names of the counties and then merge the data sets on those names to the smaller of the two data sets
+
+## 4. EDA
+
 
 
