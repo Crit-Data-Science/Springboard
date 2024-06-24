@@ -12,6 +12,9 @@ The goal of this analsyses to be able to identify features that contribute to th
 There was no missing data in the data sets. I filtered the data in the education data set down to the male and female gradation rates for both high school and college. I also included the overal high school and college graduates. To merge the the data sets I needed to isolate the names of the counties and then merge the data sets on those names to the smaller of the two data sets
 
 ## 4. EDA
+![](https://github.com/Crit-Data-Science/Springboard/blob/main/Data%20Science%20Capstone%202%20Project/Data/Plots/IncomePerCap_Counts.png)
+
+
 
 
 
