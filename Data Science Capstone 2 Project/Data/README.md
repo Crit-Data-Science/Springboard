@@ -13,6 +13,11 @@ There was no missing data in the data sets. I filtered the data in the education
 
 ## 4. EDA
 ![](https://github.com/Crit-Data-Science/Springboard/blob/main/Data%20Science%20Capstone%202%20Project/Data/Plots/IncomePerCap_Counts.png)
+![](https://github.com/Crit-Data-Science/Springboard/blob/main/Data%20Science%20Capstone%202%20Project/Data/Plots/graduation_rates_by_incom.png)
+The distributions appears normal with its right tail. The trend of education rates and income clearly trends positive.
+
+## 5. Algorithms
+
 
 
 
